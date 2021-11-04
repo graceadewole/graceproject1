@@ -3,3 +3,5 @@
 <h2> Good Luck and we are almost done with the course.Thankyou</h2>
 <h2> Im so glad to be using Java, Python and AWS finally</h2>
 <h2> i will enjoy every bit of it and make a lot of money from it</h2>
+<h2> End of DevOps. I enjoyed every bit of it. I want more...</h2>
+
